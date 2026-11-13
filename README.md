@@ -11,5 +11,5 @@ Prototipo de sistema de análisis operativo para cafeterías y negocios gastron�
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/smartcafe-analytics.git](https://github.com/tu-usuario/smartcafe-analytics.git)
+   git clone https://github.com/MarcosGonzalo/smartcafe-analitycs.git
    cd smartcafe-analytics
